@@ -1,0 +1,5 @@
+nakai,中居正広,0
+kimura,木村拓哉,1
+katori,香取慎吾,2
+kusanagi,草彅剛,3
+inagaki,稲垣吾郎,4
