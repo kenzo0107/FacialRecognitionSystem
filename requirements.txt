@@ -48,7 +48,7 @@ pyparsing==2.1.9
 pysftp==0.2.8
 python-dateutil==2.5.3
 pytz==2016.6.1
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==15.4.0
 redis==2.10.5
 requests==2.10.0
